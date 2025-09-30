@@ -2,7 +2,7 @@
 | Paper Title | Paper Links | Conference and Year | Read for discussion on: | Presenter |
 | :--- | :--- | :--- | :--- | :--- |
 | Ozz: Identifying Kernel Out-of-Order Concurrency Bugs with In-Vivo Memory Access Reordering | [Link](https://gts3.org/assets/papers/2024/jeong:ozz.pdf) | SOSP 2024 |||
-| LazyLog: A New Shared Log Abstraction for Low-Latency Applications | [Link](https://dassl-uiuc.github.io/pdfs/papers/lazylog.pdf) | SOSP 2024 |9/30| ? |
+| LazyLog: A New Shared Log Abstraction for Low-Latency Applications | [Link](https://dassl-uiuc.github.io/pdfs/papers/lazylog.pdf) | SOSP 2024 |9/30| Christian Knab |
 | Building Bridges: Safe Interactions with Foreign Languages through Omniglot | [Link](https://www.usenix.org/conference/osdi25/presentation/schuermann) | OSDI 2025 |||
 | Basilisk: Using Provenance Invariants to Automate Proofs of Undecidable Protocols | [Link](https://www.usenix.org/conference/osdi25/presentation/zhang-tony) | OSDI 2025 |||
 | NDD: A Decision Diagram for Network Verification | [Link](https://www.usenix.org/conference/nsdi25/presentation/li-zechun) | NSDI 2025 |||
@@ -22,6 +22,7 @@
 | The Multikernel: A New OS Architecture for Scalable Multicore | [Link](https://dl.acm.org/doi/10.1145/1629575.1629579) | 2009 |||
 | DryadLINQ: A System for General-Purpose Distributed Data-Parallel Computing Using a High-Level Language | [Link](https://www.microsoft.com/en-us/research/publication/dryadlinq-a-system-for-general-purpose-distributed-data-parallel-computing-using-a-high-level-language/) | 2010 |||
 | On the criteria to be used in decomposing systems into modules | [Link](https://dl.acm.org/doi/10.1145/361598.361623) | 1972 |||
+
 
 
 
