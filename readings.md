@@ -21,7 +21,15 @@
 | Xen and the art of virtualization | [Link](https://dl.acm.org/doi/10.1145/945445.945462) | 2003 |10/30|Harry Dole|
 | The Multikernel: A New OS Architecture for Scalable Multicore | [Link](https://dl.acm.org/doi/10.1145/1629575.1629579) | 2009 |10/16| Ella Lehavi |
 | DryadLINQ: A System for General-Purpose Distributed Data-Parallel Computing Using a High-Level Language | [Link](https://www.microsoft.com/en-us/research/publication/dryadlinq-a-system-for-general-purpose-distributed-data-parallel-computing-using-a-high-level-language/) | 2010 |10/7| Kat Kosolapova |
-| On the criteria to be used in decomposing systems into modules | [Link](https://dl.acm.org/doi/10.1145/361598.361623) | 1972 |10/2||
+| #1 On the criteria to be used in decomposing systems into modules, #2 Software Components: Only The Giants Survive | [Link #1](https://dl.acm.org/doi/10.1145/361598.361623), [Link #2](https://www.microsoft.com/en-us/research/publication/software-components-only-the-giants-survive/) | 1972, 2004 |10/2| Cameron Oakley |
+
+---
+
+### Other Readings
+| Paper Title | Paper Links | Original Publication Year |Read for discussion on|Presenter
+| :--- | :--- | :--- | :--- | :--- |
+| Dryad: Distributed Data-parallel Programs from Sequential Building Blocks |[Link](https://www.microsoft.com/en-us/research/publication/dryad-distributed-data-parallel-programs-from-sequential-building-blocks/) | 22007 |||
+
 
 
 
