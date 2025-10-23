@@ -4,7 +4,7 @@
 | Ozz: Identifying Kernel Out-of-Order Concurrency Bugs with In-Vivo Memory Access Reordering | [Link](https://gts3.org/assets/papers/2024/jeong:ozz.pdf) | SOSP 2024 |10/28| Holly Casaletto |
 | LazyLog: A New Shared Log Abstraction for Low-Latency Applications | [Link](https://dassl-uiuc.github.io/pdfs/papers/lazylog.pdf) | SOSP 2024 |9/30| Zephiris |
 | Building Bridges: Safe Interactions with Foreign Languages through Omniglot | [Link](https://www.usenix.org/conference/osdi25/presentation/schuermann) | OSDI 2025 |10/9| Achilles Benetopoulos |
-| Basilisk: Using Provenance Invariants to Automate Proofs of Undecidable Protocols | [Link](https://www.usenix.org/conference/osdi25/presentation/zhang-tony) | OSDI 2025 || Sean Gray |
+| Basilisk: Using Provenance Invariants to Automate Proofs of Undecidable Protocols | [Link](https://www.usenix.org/conference/osdi25/presentation/zhang-tony) | OSDI 2025 |11/18| Sean Gray |
 | NDD: A Decision Diagram for Network Verification | [Link](https://www.usenix.org/conference/nsdi25/presentation/li-zechun) | NSDI 2025 |||
 | CellReplay: Towards accurate record-and-replay for cellular networks | [Link](https://www.usenix.org/system/files/nsdi25-sentosa.pdf) | NSDI 2025 ||Sam Wortzman|
 | AnyBlox: A Framework for Self-Decoding Datasets | [Link](https://vldb.org/pvldb/volumes/18/paper/AnyBlox%3A%20A%20Framework%20for%20Self-Decoding%20Datasets) | VLDB 2025 |10/23| Lucas Ellenberger |
@@ -22,6 +22,7 @@
 | The Multikernel: A New OS Architecture for Scalable Multicore | [Link](https://dl.acm.org/doi/10.1145/1629575.1629579) | 2009 |10/16| Ella Lehavi |
 | DryadLINQ: A System for General-Purpose Distributed Data-Parallel Computing Using a High-Level Language | [Link](https://www.microsoft.com/en-us/research/publication/dryadlinq-a-system-for-general-purpose-distributed-data-parallel-computing-using-a-high-level-language/) | 2010 |10/7| Kat Kosolapova |
 | On the criteria to be used in decomposing systems into modules | [Link](https://dl.acm.org/doi/10.1145/361598.361623) | 1972 |10/2||
+
 
 
 
