@@ -28,7 +28,7 @@
 ### Other Readings
 | Paper Title | Paper Links | Original Publication Year |Read for discussion on|Presenter
 | :--- | :--- | :--- | :--- | :--- |
-| Dryad: Distributed Data-parallel Programs from Sequential Building Blocks |[Link](https://www.microsoft.com/en-us/research/publication/dryad-distributed-data-parallel-programs-from-sequential-building-blocks/) | 22007 |||
+| Dryad: Distributed Data-parallel Programs from Sequential Building Blocks |[Link](https://www.microsoft.com/en-us/research/publication/dryad-distributed-data-parallel-programs-from-sequential-building-blocks/) | 2007 ||Qizhong Wang|
 
 
 
